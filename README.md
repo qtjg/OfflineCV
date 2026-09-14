@@ -1,5 +1,23 @@
 # offlinecv
 
+<!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
+<div align="center">
+
+![OfflineCV — 3D](assets/3d-hero.svg)
+
+**made by [Mayank Bhaskar](https://github.com/qtjg)** · ![lang](https://img.shields.io/badge/lang-TypeScript-60a5fa?style=flat&labelColor=0d1117) ![stars](https://img.shields.io/github/stars/qtjg/OfflineCV?style=flat&labelColor=0d1117&color=60a5fa)
+
+### 🧊 3D View
+
+![OfflineCV — isometric stack](assets/3d-stack.svg)
+
+*Floating isometric render — layers hover, data particles stream, shine sweeps.*
+
+</div>
+
+---
+🩺 **New tool — `repo-pulse`**: instant git pulse (28-day heat bars, hot files, contributors). Run: `node tools/repo-pulse.mjs`
+
 **Try it:** [offlinecv.org](https://offlinecv.org) — stable, promoted daily once
 CI is green · [dev.offlinecv.org](https://dev.offlinecv.org) — bleeding edge,
 updated on every push
