@@ -1,5 +1,10 @@
 # offlinecv
 
+<p align="center">
+  <img src="docs/assets/3d-banner.svg" alt="OfflineCV 3D banner" width="880" />
+</p>
+
+
 <!-- ⬡ 3D-UPGRADE v1 by Mayank Bhaskar -->
 <div align="center">
 
@@ -418,6 +423,22 @@ To bake telemetry into a deployed build, set `VITE_POSTHOG_KEY` (and
 optionally `VITE_POSTHOG_HOST`) in the build environment — see the
 [Telemetry](#telemetry) section. With it unset, the build ships zero
 analytics.
+
+
+---
+
+## 🧊 3D Visuals
+
+<p align="center">
+  <img src="docs/assets/3d-langs.svg" alt="OfflineCV — 3D language stack" width="800" />
+</p>
+
+Isometric 3D language stack computed from live GitHub language stats.
+Regenerate the graphics any time with the built-in generator — stdlib only, zero dependencies:
+
+```bash
+python tools/generate_3d_assets.py
+```
 
 ## License
 
